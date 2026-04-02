@@ -8,4 +8,9 @@
 * **3. Red Banana:** gives the Mandrill a temporary berserk.
 * **4. Classified.**
 
+## Mod installation instructions:
+The mod was made using bepln EX. To do this, download any version of bepln, add its zip files to the game files (where the mandrill exe is located), and launch the game. A "plugins" folder should appear. Place the mod there. And you're ready to play.
+
+
 You can support me by simply visiting my Discord channel, where you'll find news on the development of other mods for other games, events, and news on the development of my own game.
+https://discord.com/invite/EgyqBdbE6h
